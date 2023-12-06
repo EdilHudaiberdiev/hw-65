@@ -3,3 +3,7 @@ interface IPage{
     title: string;
     text: string;
 }
+interface IPageContentForm{
+    title: string;
+    text: string;
+}
